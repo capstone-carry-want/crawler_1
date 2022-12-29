@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Moong
+          Learn React for crawl
+
         </a>
       </header>
     </div>
